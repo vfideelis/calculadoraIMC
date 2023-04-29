@@ -1,0 +1,51 @@
+label{
+   color: #d4d4d2;
+}
+
+.area{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 4em;
+
+
+}
+ .container{
+    background-color: #1c1c1c;
+    display: inline-flex;
+    padding: 1em;
+    border-radius: 1em;
+    flex-direction: column;
+    align-items: center;
+ }
+ .titulo{
+   background-color: #1c1c1c;
+   color: #d4d4d2;
+   padding: 1em;
+   border-radius: 1em;
+}
+
+ #button{
+    height: 3em;
+    width: 100%;
+   background-color: #ff9500;
+   border: none;
+   color: white;
+ }
+button:hover{
+   cursor: pointer;
+}
+
+.resultado1{
+   color: #d4d4d2;
+}
+.resultado2{
+   color: #d4d4d2;
+}
+.resultado3{
+   color: #d4d4d2;
+}
+ h4{
+   color: #d4d4d2;
+ }
